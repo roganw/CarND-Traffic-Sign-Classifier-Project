@@ -21,6 +21,7 @@ app.db
 *.sqllite
 .vscode
 .python-version
+data
 
 *.sublime-project
 *.sublime-workspace
